@@ -24,13 +24,13 @@
 ![Vuejs](https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 ![C++](https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor)
+![Django](https://icongr.am/devicon/django-original.svg?size=50&color=currentColor)
 
 
 
 
 ### Tools. 🛠 
 
-![Ai](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=currentColor)
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
 ![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
 ![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
