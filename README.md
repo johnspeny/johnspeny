@@ -8,7 +8,6 @@
 <i class="devicon-javascript-plain"></i>
  
 ---
-- 🔭 I’m currently working on the **Microverse Fullstack Curriculum.**
 - 🌱 I’m learning ... **Unity, OpenGL, and Cocos2d-x.**
 - 💬 Ask me about ... **Software Development.**
 - 😄 Employment ... **Open to new opportunities.**
