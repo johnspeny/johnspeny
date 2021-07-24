@@ -23,7 +23,7 @@
 ![javascript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![Vuejs](https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![C++](https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor)
+![C++](https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor)
 
 
 
