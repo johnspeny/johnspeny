@@ -8,7 +8,7 @@
 <i class="devicon-javascript-plain"></i>
  
 ---
-- 🌱 I’m learning ... **Unity, OpenGL, and Cocos2d-x.**
+- 🌱 I’m learning ... **Unity, Cryengine, and Cocos2d-x.**
 - 💬 Ask me about ... **Software Development.**
 - 😄 Employment ... **Open to new opportunities.**
 - ⚡ Fun fact ... **I'm love tech.**
