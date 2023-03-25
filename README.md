@@ -26,6 +26,7 @@
 - ✨ cpu emulators
 - ✨ http web servers
 - ✨ bloom
+- ✨ data structures
 
 
 
